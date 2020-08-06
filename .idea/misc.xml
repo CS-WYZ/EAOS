@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="Osmorc">
     <option name="bundlesOutputPath" value="E:/polarion/ideaOutPut" />
     <option name="frameworkInstanceName" value="Equinox (3.13.300.v20190218-1622)" />
