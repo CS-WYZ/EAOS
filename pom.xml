@@ -8,14 +8,7 @@
     <artifactId>EAOS</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <build>
-        <testResources>
-
-        </testResources>
-    </build>
-
     <dependencies>
-
         <!--     jetty容器依赖-->
         <dependency>
             <groupId>org.eclipse.jetty.aggregate</groupId>
