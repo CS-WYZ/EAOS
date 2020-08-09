@@ -11,7 +11,7 @@
     <option name="bundlesOutputPath" value="E:/polarion/ideaOutPut" />
     <option name="frameworkInstanceName" value="Equinox (3.13.300.v20190218-1622)" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="Jdk1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
